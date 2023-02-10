@@ -23,8 +23,6 @@ I will join the [https://cs.uwaterloo.ca/ Cheriton School of Computer Science] a
 Massively parallel query processing, dynamic query processing, oblivious query processing, and machine learning in query optimization.
 
 == Journal Papers
-- *Xiao Hu* and Yufei Tao. "Parallel Acyclic Joins: Optimal Algorithms and Cyclicity Separation." Journal of the ACM (*JACM*).
-- Shaleen Deep, *Xiao Hu* and Paraschos Koutris. "Enumeration Algorithms for Conjunctive Queries with Projection." Logical Methods in Computer Science (*LMCS*) *(invited)*.
 - *Xiao Hu* and Ke Yi. "Massively Parallel Join Algorithms." *SIGMOD Record*, 49(3), September 2020 *(invited)*. [sigmodrecord20.pdf *\[pdf\]*] \n
 - *Xiao Hu*, Ke Yi, and Yufei Tao. “Output-optimal Massively Parallel Algorithms for Similarity Joins.” ACM Transactions on Database Systems (*TODS*), 44(2):6, April 2019 *(invited)*. [tods19.pdf *\[pdf\]*] \n
 
